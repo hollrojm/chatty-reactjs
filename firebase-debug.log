@@ -1,0 +1,22 @@
+[debug] [2021-10-25T16:50:19.125Z] ----------------------------------------------------------------------
+[debug] [2021-10-25T16:50:19.127Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HOLL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-10-25T16:50:19.127Z] CLI Version:   9.20.0
+[debug] [2021-10-25T16:50:19.127Z] Platform:      win32
+[debug] [2021-10-25T16:50:19.127Z] Node Version:  v14.17.5
+[debug] [2021-10-25T16:50:19.131Z] Time:          Mon Oct 25 2021 11:50:19 GMT-0500 (hora estándar de Colombia)
+[debug] [2021-10-25T16:50:19.131Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-25T16:50:19.136Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-10-25T16:50:19.162Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-25T16:50:19.163Z] > authorizing via signed-in user (hollmanerojas@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\HOLLMAN\SOFTKA\ClientSideConReactJS\chatty
+

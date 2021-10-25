@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.btn-google{
+  background: #f95342;
+  width: 100%;
+  border: none;
+  padding: 6px;
+  border-radius: 6px;
+  color: white;
+  margin-bottom: 18px;
+ }
